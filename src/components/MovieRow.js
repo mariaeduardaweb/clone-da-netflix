@@ -110,8 +110,6 @@ export default ({ title, items }) => {
                     ))}
                 </div>
             </div>
-
-            {/* 🎬 TRAILER EMBAIXO */}
             {trailerUrl && (
                 <div className="movieRow--trailer">
 
