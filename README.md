@@ -66,6 +66,6 @@ Este projeto teve como objetivo praticar:
 - Integração com players de vídeo
 
 
-Desenvolvido com 💜 por Maria Eduarda.
+Desenvolvido com 💜 por Maria Eduarda. 
 
 
